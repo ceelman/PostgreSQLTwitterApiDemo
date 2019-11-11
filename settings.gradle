@@ -1,0 +1,6 @@
+pluginManagement {
+    repositories {
+    }
+}
+
+rootProject.name = 'demo'
